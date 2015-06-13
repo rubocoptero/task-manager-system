@@ -1,6 +1,10 @@
+function Task (name) {
+    var name;
+}
+
 
 module.exports = {
-    new: function () {
-        return true;
+    new: function (name) {
+        return new Task(name);
     }
 };

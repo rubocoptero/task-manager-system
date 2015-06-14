@@ -1,0 +1,4 @@
+* Repository implementation satisfies the interface.
+* Implement DTO and fake repository test-driving it.
+* Inject repository.
+

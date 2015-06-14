@@ -1,5 +1,9 @@
 function Task (name) {
     var name;
+
+    this.defineInstructions = function (instructions) {
+
+    };
 }
 
 
